@@ -1,4 +1,3 @@
-```markdown
 # Login-Upload-Template
 
 Login-Upload-Template is a web application template designed to provide a seamless login experience followed by the ability to upload files. It incorporates a login page with authentication powered by Prisma and a stylish interface featuring a unique CSS design.
