@@ -22,21 +22,31 @@ git clone https://github.com/Kr1sh-gupta/login-upload-template.git
 cd Login-Upload-Template
 ```
 
-3. Install dependencies:
+3. Install dependencies for both frontend and backend:
 
 ```bash
+npm install
+cd backend
 npm install
 ```
 
 4. Set up your environment variables, including database credentials and any other necessary configurations.
 
-5. Start the server:
+5. Start the backend server:
 
 ```bash
+cd ../backend
 npm start
 ```
 
-6. Access the application in your web browser at `http://localhost:3000`.
+6. Start the frontend server:
+
+```bash
+cd ../
+npm start
+```
+
+7. Access the application in your web browser at `http://localhost:3000`.
 
 ## Usage
 
@@ -44,10 +54,6 @@ npm start
 2. Enter your credentials to log in.
 3. Upon successful login, you'll be redirected to the upload page.
 4. Upload your files using the provided interface.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
