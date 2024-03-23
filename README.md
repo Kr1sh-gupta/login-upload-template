@@ -59,5 +59,3 @@ npm start
 
 - Special thanks to Prisma for providing a reliable authentication solution.
 - The CSS design of this template is inspired by the `.wrapper` class provided in the initial CSS snippet.
-
-```
